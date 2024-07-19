@@ -1,0 +1,7 @@
+
+/open/test
+/open/train
+/open/unlabeled_data
+open/train.csv
+open/test.csv
+open/sample_submission.csv
